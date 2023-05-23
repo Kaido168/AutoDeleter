@@ -9,4 +9,4 @@ jobs:
     - name: Тест создания файла
       run: |
         chmod +x test.sh
-	./tesh.sh
+	./test.sh
